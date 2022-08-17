@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1558562920 source:d:\codeblocks\projeto\projetomain.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558489668 source:d:\codeblocks\projeto\organizar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558488754 source:d:\codeblocks\projeto\new_try.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558664504 source:c:\users\pedro rodrigues\desktop\projeto\projetomain.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1558665185 source:c:\users\pedro rodrigues\desktop\projeto\projetomain(1).c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1558869714 source:c:\users\pedro rodrigues\appdata\local\temp\main-2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+

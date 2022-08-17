@@ -1,0 +1,359 @@
+1º Local
+Amsterdao
+
+1.1 PDI
+Casa de Anne Frank
+-Descricao: Museu biografico localizado na cidade de Amsterdao, capital dos Paises Baixos.
+-Horario de funcionamento: Abertura*7h Fecho*19h
+
+1.2 PDI
+Museu Van Gogh
+-Descricao: Museu em Amsterdao, nos Paises Baixos. 
+-Horario de funcionamento: Abertura*8h Fecho*18h
+
+1.3 PDI
+Museu da Heineken
+-Descricao: Visita interativa pela historia da conhecida marca numa antiga cervejaria que termina numa sala de degustaçao.
+-Horario de funcionamento: Abertura*10h Fecho*19
+
+2º Local
+Bangkok
+
+2.1 PDI
+Grande Palacio de Bangkok
+-Descricao: Conjunto de edificios em Bangkok, Tailandia, que serviu como residencia oficial do rei de Tailandia.
+-Horario de funcionamento: Abertura*8h Fecho*15h	
+	 	
+2.2 PDI
+Wat Arun
+-Descricao: Templo budista da escola teravada da cidade de Bangkok, capital da Tailandia.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+2.3 PDI
+Wat Phra Kaew
+-Descricao: Wat Phra Kaew contem o Templo do Buda de Esmeralda, o templo mais sagrado da Tailandia.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+3ºLocal
+Barcelona
+
+3.1 PDI
+Aquário de Barcelona
+-Descricao: Os 35 aquarios da instalaçao abrigam 11.000 animais representando 450 especies.
+-Horario de funcionamento: Abertura*10h Fecho*20h
+
+3.2 PDI
+Museu Picasso
+-Descricao: Museu de arte localizado em Barcelona, na Espanha, foi declarado museu de interesse nacional.
+-Horario de funcionamento: Abertura*10h Fecho*17h
+
+3.3 PDI
+Praça da Catalunha
+-Descricao: A mais central e a maior das praças de Barcelona, na Espanha.
+-Horario de funcionamento: Abertura*10h Fecho*20h
+	 
+4ºLocal
+Dubai
+
+4.1 PDI
+Burj Khalifa
+-Descricao: Arranha-ceu localizado em Dubai.
+-Horario de funcionamento: Abertura*10h Fecho*20h
+
+4.2 PDI
+Dubai Mall
+-Descricao: O maior centro comercial do mundo, esta localizado no complexo Burj Khalifa.
+-Horario de funcionamento: Abertura*10h Fecho*0h
+
+4.3 PDI
+Fonte de Dubai
+-Descricao: O maior sistema de chafariz coreografado do mundo.
+-Horario de funcionamento: Abertura*19h Fecho*23h
+
+5ºLocal
+Hong Kong
+
+5.1 PDI
+Hong Kong Disneyland
+-Descricao: Parque tematico localizado dentro do Hong Kong Disneyland Resort.
+-Horario de funcionamento: Abertura*10h Fecho*20h
+
+5.2 PDI
+Ocean Park Hong Kong
+-Descricao: Parque de mamiferos marinhos, oceanario, parque tematico de animais e parque de diversoes
+-Horario de funcionamento: Abertura*10h Fecho*19h
+
+5.3 PDI 
+The Peak Tram
+-Descricao: Funicular em Hong Kong, que transporta turistas e residentes para os niveis superiores da Ilha.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+6ºLocal
+Lisboa
+
+6.1 PDI
+Praca do Comercio
+-Descricao: Praca da Baixa de Lisboa situada junto ao rio Tejo.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+6.2 PDI
+Oceanario de Lisboa
+-Descricao: Aquario publico e instituicao de pesquisa sobre Biologia marinha e Oceanografia.
+-Horario de funcionamento: Abertura*10h Fecho*18h
+
+6.3 PDI
+Jardim Zoologico de Lisboa
+-Descricao: Zoologico com cerca de 2000 animais de 332 espécies diferentes.
+-Horario de funcionamento: Abertura*10h Fecho*20h
+
+7ºLocal
+Londres
+
+7.1 PDI
+Palacio de Buckingham
+-Descricao: Residencia oficial e principal local de trabalho do Monarca do Reino Unido em Londres.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+7.2 PDI
+Big Ben
+-Descricao: Sino que foi instalado no Palacio de Westminster.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+7.3 PDI
+London Eye
+-Descricao: Roda-gigante de observacao.
+-Horario de funcionamento: Abertura*10h Fecho*20h
+
+8ºLocal
+Los Angeles
+
+8.1 PDI
+Universal Studios Hollywood
+-Descricao: Estudio de filmes e parque tematico.
+-Horario de funcionamento: Abertura*10h Fecho*18h
+
+8.2 PDI
+Disneyland
+-Descricao: Parques de diversao.
+-Horario de funcionamento: Abertura*08h Fecho*0h
+
+8.3 PDI
+Calcada da Fama
+-Descricao: Passeio ao longo das ruas Hollywood Boulevard constituido por mais de 2.000 lajes com estrelas.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+9ºLocal
+Madrid
+
+9.1 PDI
+Plaza Mayor
+-Descricao: Praca retangular, rodeada de todos os lados de edificios de tres pisos.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+9.2 PDI
+Jardins do Retiro de Madrid
+-Descricao: Parque da cidade de Madrid, na Espanha.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+9.3 PDI
+Mercado de São Miguel
+-Descricao: Mercado coberto construido por volta de 1916 com culinaria local, iguarias e eventos.
+-Horario de funcionamento: Abertura*10h Fecho*0h
+
+10ºLocal
+Milao
+
+10.1 PDI
+Catedral de Milao
+-Descricao: Catedral catolica romana.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+10.2 PDI
+Galeria Vittorio Emanuele II
+-Descricao: Shopping center mais antigo da Italia.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+10.3 PDI
+Estadio Giuseppe Meazza
+-Descricao: Estadio onde jogam o Internazionale e o Milan.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+11ºLocal
+Miami
+
+11.1 PDI
+Bayside Marketplace
+-Descricao: Shopping center ao ar livre de dois andares.
+-Horario de funcionamento: Aberto*10h Fecho*22h
+
+11.2 PDI
+Aquario de Miami
+-Descricao: Oceanario situado em Miami.
+-Horario de funcionamento: Aberto*10h Fecho*18h
+
+11.3 PDI
+Bayfront Park
+-Descricao: Parque publico urbano.
+-Horario de funcionamento: Aberto8h Fecho*23h
+
+12ºLocal
+New York
+
+12.1 PDI
+Central Park
+-Descricao: Parque dentro da cidade de Nova Iorque.
+-Horario de funcionamento: Aberto*6h Fecho*1h
+
+12.2 PDI
+Estatua da Liberdade
+-Descricao: Escultura neoclassica colossal.
+-Horario de funcionamento: Aberto*09h Fecho*16h
+
+12.3 PDI
+Empire State Building
+-Descricao: Arranha-ceu de 102 andares.
+-Horario de funcionamento: Aberto8h Fecho*2h
+
+13ºLocal
+Paris
+
+13.1 PDI
+Torre Eiffel
+-Descricao: Torre trelica de ferro do seculo XIX.
+-Horario de funcionamento: Aberto*10 Fecho*0
+
+13.2 PDI
+Museu do Louvre
+-Descricao: Maior museu de arte do mundo e um monumento historico.
+-Horario de funcionamento: Aberto*9h Fecho*18h
+
+13.3 PDI
+Arco do Triunfo
+-Descricao: Monumento construido em comemoracao as vitorias militares do Napoleao Bonaparte.
+-Horario de funcionamento: Aberto*10h Fecho*23h
+
+14ºLocal
+Roma
+
+14.1 PDI
+Coliseu
+-Descricao: Anfiteatro oval localizado no centro da cidade.
+-Horario de funcionamento: Aberto*9h Fecho*19h
+
+14.2 PDI
+Fontana di Trevi
+-Descricao: Construcao de fontes barrocas da Italia.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+14.3 PDI
+Museus do Vaticano
+-Descricao: Conglomerado de renomadas instituicoes culturais.
+-Horario de funcionamento: Aberto*9h Fecho*16h
+
+15ºLocal
+Seoul
+
+15.1 PDI
+Gyeongbokgung
+-Descricao: Palacio real.
+-Horario de funcionamento: Aberto*9h Fecho*18h
+
+15.2 PDI
+N Seoul Tower
+-Descricao:  Torre de comunicacao e observacao.
+-Horario de funcionamento: Aberto*10h Fecho*23h
+
+15.3 PDI
+Namdaemun Market
+-Descricao: Grande mercado tradicional.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+16ºLocal
+Shangai
+
+16.1 PDI
+Torre Pérola Oriental
+-Descricao: Torre televisiva.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+16.2 PDI
+Rua de Nanquim
+-Descricao: Principal arteria comercial de Xangai.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+16.3 PDI
+Shanghai Tower
+-Descricao: Arranha-ceus localizado no distrito financeiro de Pudong, em Xangai.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+17ºLocal
+Singapura
+
+17.1 PDI
+Jardins da Baia
+-Descricao: Parque, inclui tres jardins frente a costa.
+-Horario de funcionamento: Aberto*5h Fecho*2h
+
+17.2 PDI
+Universal Studios Singapore
+-Descricao: Parque tematico localizado no Resorts World Sentosa.
+-Horario de funcionamento: Aberto*10h Fecho*19h
+
+17.3 PDI
+Night Safari
+-Descricao: Primeiro zoologico noturno do mundo.
+-Horario de funcionamento: Aberto*20h Fecho*0h
+
+18ºLocal
+Tokyo
+
+18.1 PDI
+Tokyo Skytree
+-Descricao: Torre de radiodifusao em Sumida.
+-Horario de funcionamento: Aberto*8h Fecho*22h
+ 
+18.2 PDI
+Torre de Toquio
+-Descricao:  Torre de comunicacao e um belveder.
+-Horario de funcionamento: Aberto*9h Fecho*23h
+
+18.3 PDI
+Tokyo DisneySea
+-Descricao: Parque tematico.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+19ºLocal
+Toronto
+
+19.1 PDI
+Torre CN
+-Descricao: Torre turistica e de comunicacoes.
+-Horario de funcionamento: Aberto*9h Fecho*23h
+
+19.2 PDI
+High Park
+-Descricao:  Maior e mais movimentado parque da cidade.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+19.3 PDI
+Toronto Eaton Centre
+-Descricao: Shopping center.
+-Horario de funcionamento: Aberto*10h Fecho*22h
+
+20ºLocal
+Veneza
+
+20.1 PDI
+Ponte de Rialto
+-Descricao: Ponte em arco mais antiga e mais famosa sobre o Grande Canal.
+-Horario de funcionamento: Abertura*0h Fecho*24h
+
+20.2 PDI
+Palacio Ducal
+-Descricao: Simbolo da cidade de Veneza e uma obra-prima do gotico veneziano.
+-Horario de funcionamento: Aberto*9h Fecho*21h
+
+20.3 PDI
+Basilica de Sao Marcos
+-Descricao: Mais famosa das igrejas de Veneza.
+-Horario de funcionamento: Abertura*0h Fecho*24h
